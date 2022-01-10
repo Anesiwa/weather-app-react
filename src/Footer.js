@@ -6,7 +6,7 @@ export default function Footer() {
     <div id="contact">
       <span> Open-sourced code by Amelia Arku </span>
       <a
-        href="https://github.com/Anesiwa/Weather-app"
+        href="https://github.com/Anesiwa/weather-app-react"
         target="_blank"
         rel="noopener noreferrer"
       >
