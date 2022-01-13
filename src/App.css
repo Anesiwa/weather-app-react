@@ -13,7 +13,7 @@ body {
     rgba(30, 39, 97, 1) 30%,
     rgba(122, 32, 72, 1) 80%
   );
-  opacity: 80%;
+  opacity: 0.8%;
   border: 10px;
   border-radius: 40px 40px 40px 40px;
   padding: 20px;
