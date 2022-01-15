@@ -1,16 +1,15 @@
 import React from "react";
 import "./App.css";
-import SearchForm from "./SearchForm";
-import WeatherDetail from "./WeatherDetail";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./Footer";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="container">
-      <div className="App">
+      <div className="weather-app-wrapper">
         <div className="weather-app">
-          <SearchForm />
-          <WeatherDetail />
+          <Weather />
           <Footer />
         </div>
       </div>
