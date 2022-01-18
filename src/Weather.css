@@ -7,7 +7,7 @@ h1 {
   margin: 10px 0 5px;
   font-size: 50px;
   font-weight: 700;
-  color: #408ec6;
+  color: #40c6a4;
 }
 ul {
   margin: 5px 0;
@@ -27,7 +27,8 @@ li:first-letter {
 #weatherDescription,
 #humidity,
 #wind,
-#precipitation {
+#precipitation,
+#day {
   color: #f1f1f1;
 }
 .row {
@@ -48,11 +49,6 @@ li:first-letter {
   font-size: 16px;
   color: #f1f1f2;
   margin-left: 5px;
-}
-#date {
-  color: #f1f1f2;
-  font-weight: lighter;
-  font-size: 18px;
 }
 
 #icon {
