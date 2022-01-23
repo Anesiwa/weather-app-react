@@ -39,23 +39,25 @@ li:first-letter {
   display: block;
   margin: auto;
 }
-#temperature {
+.temperature {
   font-size: 80px;
   color: #408ec6;
 }
 .units {
   position: relative;
-  top: -38px;
+  top: -48px;
   font-size: 16px;
   color: #f1f1f2;
-  margin-left: 5px;
+  margin-left: -9px;
 }
 
-#icon {
-  height: 90px;
-  width: 90px;
+canvas {
   display: inline-block;
   margin-right: 10px;
+  margin-top: 20px;
+}
+.weatherParameters {
+  margin-top: 20px;
 }
 .search-form {
   margin: 10px 0;
